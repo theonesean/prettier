@@ -33,7 +33,7 @@ printWidth: 80
 }
 
 =====================================output=====================================
-@nice-blue: #5b83ad;
+@nice-blue: #5B83AD;
 @light-blue: @nice-blue + #111;
 
 // Comment 1

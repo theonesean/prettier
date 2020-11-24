@@ -303,6 +303,19 @@ Default: log
 
 exports[`show detailed usage with --help loglevel (write) 1`] = `Array []`;
 
+exports[`show detailed usage with --help lowercase-hex-colors (stderr) 1`] = `""`;
+
+exports[`show detailed usage with --help lowercase-hex-colors (stdout) 1`] = `
+"--lowercase-hex-colors
+
+  Convert letters from CSS hexadecimal colors to lowercase.
+
+Default: false
+"
+`;
+
+exports[`show detailed usage with --help lowercase-hex-colors (write) 1`] = `Array []`;
+
 exports[`show detailed usage with --help no-bracket-spacing (stderr) 1`] = `""`;
 
 exports[`show detailed usage with --help no-bracket-spacing (stdout) 1`] = `

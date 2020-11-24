@@ -167,7 +167,7 @@ HTML#KeepId.KeepClass,
 a[HREF="KeepAttrValue"]:hover::first-letter,
 svg[viewBox] linearGradient,
 :not(:nth-child(2n + 1)) {
-  color: #aabbcc;
+  color: #AAbbCC;
   background-image: URL("KeepString");
   margin: 5px 0.2e10em;
   --Keep-custom-Prop: red;

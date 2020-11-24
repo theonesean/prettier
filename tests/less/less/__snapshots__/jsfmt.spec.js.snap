@@ -1787,7 +1787,7 @@ label {
   &:extend(.input:disabled)}
 
 =====================================output=====================================
-@nice-blue: #5b83ad;
+@nice-blue: #5B83AD;
 @light-blue: @nice-blue + #111;
 
 #header {
