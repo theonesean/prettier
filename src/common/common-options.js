@@ -46,4 +46,11 @@ module.exports = {
       },
     ],
   },
+  lowercaseHexColors: {
+    since: "2.3.1-dev",
+    category: CATEGORY_COMMON,
+    type: "boolean",
+    default: false,
+    description: "Convert letters from CSS hexadecimal colors to lowercase.",
+  }
 };
